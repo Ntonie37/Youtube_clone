@@ -1,4 +1,4 @@
-React YouTube Replica
+##React YouTube Replica
 Introduction
 This project mimics the functionality of YouTube, employing ReactJS and Tailwind CSS. By utilizing the RapidAPI, it fetches video data, presenting it in a user-friendly YouTube-like interface.
 
@@ -17,7 +17,7 @@ Follow these steps to deploy the project locally:
 Clone the Repository:
 bash
 Copy code
-git clone 
+git clone https://github.com/Ntonie37/Youtube_clone.git
 Navigate to the Project Directory:
 bash
 Copy code
